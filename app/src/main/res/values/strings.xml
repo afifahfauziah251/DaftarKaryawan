@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DaftarKaryawan</string>
+    <string name="selected_item">SelectedItem</string>
+    <string-array name="Jabatan">
+        <item>Direktur Utama</item>
+        <item>Direktur Keuangan</item>
+        <item>Direktur Personalia</item>
+        <item>Manajer</item>
+        <item>Manajer Personalia</item>
+        <item>Manajer Pemasaran</item>
+        <item>Manajer Pabrik</item>
+        <item>Administrasi</item>
+        <item>Tim Kreatif</item>
+        <item>IT Developer</item>
+        <item>Tim Kebersihan</item>
+    </string-array>
+</resources>
